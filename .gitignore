@@ -1,0 +1,9 @@
+/bin
+core/
+modules/contrib/
+profiles/contrib/
+themes/contrib/
+sites/default/files/
+libraries/
+vendor/
+.idea
