@@ -1,0 +1,11 @@
+{
+    "package": {
+        "name": "slangerx/open_social_template",
+        "version": "1.0.0",
+        "source": {
+          "url": "https://github.com/slangerx/open_social_template.git",
+          "type": "git",
+          "reference": "master"
+        }
+    }
+}
